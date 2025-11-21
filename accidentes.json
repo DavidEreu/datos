@@ -1,0 +1,13 @@
+[
+  { "vehiculo": "Moto", "numero_accidentes": 120, "numero_muertes": 8, "anio": 2021, "zona": "Bogotá" },
+  { "vehiculo": "Carro", "numero_accidentes": 90, "numero_muertes": 5, "anio": 2021, "zona": "Medellín" },
+  { "vehiculo": "Bus", "numero_accidentes": 45, "numero_muertes": 3, "anio": 2021, "zona": "Cali" },
+
+  { "vehiculo": "Moto", "numero_accidentes": 150, "numero_muertes": 11, "anio": 2022, "zona": "Bogotá" },
+  { "vehiculo": "Carro", "numero_accidentes": 100, "numero_muertes": 6, "anio": 2022, "zona": "Medellín" },
+  { "vehiculo": "Bus", "numero_accidentes": 58, "numero_muertes": 4, "anio": 2022, "zona": "Cali" },
+
+  { "vehiculo": "Moto", "numero_accidentes": 135, "numero_muertes": 9, "anio": 2023, "zona": "Bogotá" },
+  { "vehiculo": "Carro", "numero_accidentes": 87, "numero_muertes": 4, "anio": 2023, "zona": "Medellín" },
+  { "vehiculo": "Bus", "numero_accidentes": 40, "numero_muertes": 2, "anio": 2023, "zona": "Cartagena" }
+]
